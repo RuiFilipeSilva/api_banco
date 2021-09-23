@@ -1,0 +1,25 @@
+[
+  {
+    "conta": 1,
+    "name": "teste",
+    "email": "teste@email.com",
+    "password": "123",
+    "valor": 1300
+  },
+  {
+    "name": "Rui Silva",
+    "email": "rfcs23@gmail.com",
+    "password": "123",
+    "confPassword": "123",
+    "conta": 2,
+    "valor": 4400
+  },
+  {
+    "email": "teste2@email.com",
+    "user": "Teste",
+    "password": "123",
+    "confPassword": "123",
+    "conta": 3,
+    "valor": 1000
+  }
+]
